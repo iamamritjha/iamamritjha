@@ -21,7 +21,7 @@
   <a href="https://instagram.com/iamamritjha">
     <img src="https://img.shields.io/badge/Instagram-@iamamritjha-7A1836?style=for-the-badge&logo=instagram&logoColor=FF9EBA" alt="Instagram" />
   </a>
-  <a href="https://your-portfolio-domain.com">
+  <a href="https://amritprakash.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-Placeholder_URL-9E1B42?style=for-the-badge&logo=googlechrome&logoColor=FFD4E2" alt="Portfolio Placeholder" />
   </a>
 
