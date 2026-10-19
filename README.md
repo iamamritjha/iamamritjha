@@ -153,7 +153,7 @@ I am actively open to discussing full-stack software development roles, engineer
 - 💼 **LinkedIn:** [linkedin.com/in/amrit-prakash-33b557257](https://linkedin.com/in/amrit-prakash-33b557257)
 - 🐙 **GitHub:** [@iamamritjha](https://github.com/iamamritjha)
 - 📸 **Instagram:** [@iamamritjha](https://instagram.com/iamamritjha)
-- 🌐 **Portfolio URL:** `https://your-portfolio-domain.com` *(Portfolio URL Placeholder — update with your live domain)*
+- 🌐 **Portfolio URL:** `https://amritprakash.netlify.app/`
 
 <div align="center">
 
