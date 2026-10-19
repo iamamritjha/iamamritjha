@@ -47,7 +47,7 @@ Passionate about building high-utility platforms, web security & resilient archi
 - 🚀 **Currently Building:** Developing **LifeLedger**, a personal health intelligence platform for managing medical records and health timelines.
 - 🛡️ **Cybersecurity Focus:** Enthusiastic about web application security, defensive engineering, and secure system design.
 - 🧩 **Algorithmic Foundations:** Active focus on Data Structures and Algorithms with an emphasis on analytical problem solving.
-- 🌐 **Portfolio URL:** `https://your-portfolio-domain.com` *(Portfolio URL Placeholder — update with your deployed custom domain)*.
+- 🌐 **Portfolio URL:** `https://amritprakash.netlify.app/` *(Portfolio URL Placeholder — update with your deployed custom domain)*.
 
 <div align="center">
   <img src="./assets/divider.svg" alt="Section Divider" width="100%" />
